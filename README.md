@@ -1,0 +1,2 @@
+# CustomEnvirVarHelper
+在没有管理员权限的Windows环境下为程序添加自定义的环境变量的工具
